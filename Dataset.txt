@@ -1,0 +1,1 @@
+Descargar users rating también y añadir al dataset original el comentario más interesante de cada aplicación si la tiene
