@@ -2,21 +2,26 @@ https://www.kaggle.com/lava18/google-play-store-apps
 
 Limpieza datos:
 
-	- Borrar ratings superiores a 5, error en el dataset.
+	- Borrar ratings superiores a 5, error en el dataset. DONE
 
-Ordenar datos:
+Categoria:
 
-	- Ordenar por genero y ver cuáles se valoran más
+	Sacar la media de las notas por categoria, pintar con puntos las aplicaciones por encima de la media y por debajo. DONE
+
+	Sacar máximo y minimo de cada categoría, así como la media para ver las diferencias que puede haber. DONE
+
+	Ordenar por genero y ver cuáles se valoran más DONE
+
+	Categoría e instalaciones DONE
+
+Valoraciones:
+
 	- Comparar el numero de reviews con la nota, ¿cuantas más reviews, mejor nota?
-	- Influye el tamaño de la aplicación en la nota?
 	- Influye el tamaño en el número de instalaciones.
-	- Influye que sea de pago en la review?
-	- Sacar la relación entre precio y genero
-	- Qué aplicaciones hay más, everyone, teen, adult
-	- Influye que se haya actualizado recientemente para una mejor valoración?
-	- Versión de android
-	- Categoria y el tamaño de la aplicación
-	- Categoría e instalaciones
+	- Influye que sea de pago en la review? DONE
+	- Influye que se haya actualizado recientemente para una mejor valoración?  DONE
 
 
-Descargar users rating también y añadir al dataset original el comentario más interesante de cada aplicación si la tiene
+Descargar users rating también y añadir al dataset original el comentario más interesante de cada aplicación si la tiene. 
+Sacar el numero de sentimiento positivo, neutral y negativo y coger un comentario al azar del montón de cada uno.
+
