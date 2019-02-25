@@ -22,6 +22,6 @@ Valoraciones:
 	- Influye que se haya actualizado recientemente para una mejor valoración?  DONE
 
 
-Descargar users rating también y añadir al dataset original el comentario más interesante de cada aplicación si la tiene. 
-Sacar el numero de sentimiento positivo, neutral y negativo y coger un comentario al azar del montón de cada uno.
+Descargar users rating también y añadir al dataset original el comentario más interesante de cada aplicación si la tiene. DONE
+Sacar el numero de sentimiento positivo, neutral y negativo y coger un comentario al azar del montón de cada uno. DONE
 
